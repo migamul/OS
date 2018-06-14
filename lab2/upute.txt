@@ -1,0 +1,9 @@
+Prevođenje:
+gcc -o obrada obrada.c
+gcc -o generator_prekida generator_prekida.c
+
+
+Pokretanje:
+./obrada
+./generator_prekida dobiveni_pid (npr: ./generator_prekida 10962)
+
