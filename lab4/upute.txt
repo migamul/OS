@@ -1,0 +1,10 @@
+Napomena: Program stvara 10 klijenata i onda završava,ako se zeli više u kodu treba promijeniti: #define MAX 10
+
+Prevođenje:
+gcc -o semafori semafori.c -pthread
+
+Pokretanje:
+./semafori broj_stolica (npr: ./semafori 3)
+
+
+
