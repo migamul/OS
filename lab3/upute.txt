@@ -1,0 +1,10 @@
+Prevođenje:
+gcc -o lamport lamport.c -pthread
+
+
+Pokretanje:
+./lamport broj_dretvi broj_stolova (npr: ./lamport 3 10)
+
+
+
+
